@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poorvi/static/css/main.9073f43d.css",
+    "main.js": "/poorvi/static/js/main.b4975881.js",
+    "static/js/453.1407b060.chunk.js": "/poorvi/static/js/453.1407b060.chunk.js",
+    "index.html": "/poorvi/index.html",
+    "main.9073f43d.css.map": "/poorvi/static/css/main.9073f43d.css.map",
+    "main.b4975881.js.map": "/poorvi/static/js/main.b4975881.js.map",
+    "453.1407b060.chunk.js.map": "/poorvi/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9073f43d.css",
+    "static/js/main.b4975881.js"
+  ]
+}
