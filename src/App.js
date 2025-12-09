@@ -67,7 +67,7 @@ const App = () => {
       {/* Navigation */}
       <nav className={`navbar ${isScrolled ? 'scrolled' : ''}`}>
         <div className="nav-container">
-          <div className="nav-logo">Ashwini H.L</div>
+          <div className="nav-logo">poorvi MS</div>
           <div className="nav-links">
             {['home', 'about', 'skills', 'projects', 'education', 'contact'].map((item) => (
               <button
@@ -85,7 +85,7 @@ const App = () => {
       {/* Hero */}
       <section id="home" className="hero-section">
         <div className="hero-content">
-          <h1 className="hero-title">Ashwini H.L</h1>
+          <h1 className="hero-title">Poorvi M S</h1>
           <p className="hero-subtitle">Computer Science Student & Full Stack Developer</p>
           <p className="hero-description">
             Enthusiastic developer with a strong foundation in coding, full-stack technologies, and design tools.
@@ -114,9 +114,9 @@ const App = () => {
             Passionate about full-stack development, UI/UX, and problem-solving using modern tools.
           </p>
           <div className="about-details">
-            <div><Mail size={20} /> ashuraja021@gmail.com</div>
-            <div><Phone size={20} /> +91 6363725792</div>
-            <div><MapPin size={20} /> Halebidu, Hassan District, Belur Taluk</div>
+            <div><Mail size={20} /> mspoorvi8@gmail.com</div>
+            <div><Phone size={20} /> +91 8123300763</div>
+            <div><MapPin size={20} /> Hassan, Hassan District, Belur Taluk</div>
           </div>
         </div>
       </section>
@@ -173,7 +173,7 @@ const App = () => {
           <div className="education-item">
             <h4>B.E. in Computer Science</h4>
             <p>Malnad College of Engineering, Hassan</p>
-            <p>6th Semester | CGPA: 8.7</p>
+            <p>5th Semester | CGPA: 6</p>
           </div>
         </div>
       </section>
@@ -197,8 +197,8 @@ const App = () => {
           <h2 className="section-title">Contact</h2>
           <p>Feel free to reach out via email or connect through social platforms.</p>
           <div className="contact-links">
-            <a href="mailto:ashuraja021@gmail.com"><Mail size={24} /> ashuraja021@gmail.com</a>
-            <a href="tel:+916363725792"><Phone size={24} /> +91 6363725792</a>
+            <a href="mailto:ashuraja021@gmail.com"><Mail size={24} />mspoorvi8@gmail.com</a>
+            <a href="tel:+916363725792"><Phone size={24} /> +91 8123300763</a>
           </div>
           <div className="social-links">
             <a href="https://github.com/ashwini-hl" target="_blank" rel="noopener noreferrer"><Github size={24} /></a>
